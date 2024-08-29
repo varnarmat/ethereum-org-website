@@ -23,7 +23,7 @@
 
     --accent-a: var(--blue-600);
     --accent-b: var(--pink-600);
-    --accent-c: var(--teal-600);
+    --accent-c: var(--teal-700);
 
     /* Gradients */
     --gradient-primary-angle: 90deg;
